@@ -36,6 +36,13 @@
   outline-width: 25px;
   transition-duration: 1s;
 }
+img:hover {
+  animation-name: ben;
+  scale: 1.2;
+  rotate: 180deg;
+  outline-width: 25px;
+  transition-duration: 1s;
+}
 
 
 h1 {
@@ -87,4 +94,5 @@ img{
     opacity: 1;
   
   }
+
 }
